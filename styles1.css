@@ -5,7 +5,7 @@
   }
   .grid-container {
     display: grid;
-    grid-template-columns: 290px 290px 290px 290px 290px 290px;
+    grid-template-columns: 332px 332px 332px 332px 332px 332px;
     background-color: #444444;
     padding: 10px;
     column-gap: 10px;
