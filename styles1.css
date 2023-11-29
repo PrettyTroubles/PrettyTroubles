@@ -90,6 +90,18 @@
     height:275px ;
     background-position: center;    
 } 
+.box6 {
+    width:275px ;
+    height:275px ;
+    margin:10px ;
+    padding:12px;
+    border:8px solid black ;
+    background-image: url('jellyfish.png');
+    background-size: cover;
+    width:275px ;
+    height:275px ;
+    background-position: center; 
+} 
 .column {
     float: left;
     width: 33px;
